@@ -11,7 +11,7 @@ A fork of GrapheneOS, designed for power users who want more control and possibl
 I switched from iPhone to Pixel half a year ago, only to be extremely disappointed by the built-in Google bullshit. The Play Store, GMail, Google Maps, Pixel Launcher, and Chrome, all reek of Google's ad bullshit and filth (like news in Chrome's new page). Google has fallen from grace years ago, so I switched to GrapheneOS to find sanctuary, only to be F IN THE A by Google's play integrity API again. Usually I would just install KernelSU and use TrickyStore to bypass it, but GrapheneOS has done something to verify the kernel integrity so simply patching the init_boot.img won't work. Also LSPosed is broken on GrapheneOS so I can't block applist detection or screenshot any app which should be the right of an end user. So I made this fork just to please myself with a clean yet highly customizable OS.
 
 ## How to use it?
-Currently this is my hobby project and given the highly experimental nature, no binary files will be provided for now. If you would like this to change, please open an issue and once it's popular enough, I'll start to release binaries.
+Currently this is my hobby project and given the highly experimental nature, no binary files except for my own komodo will be provided for now. If you would like this to change, please open an issue and once it's popular enough, I'll start to release binaries for other devices.
 
 If you're a power user who would like to try it now, a detailed build instruction is available as follows:
 ### Build environment setup
